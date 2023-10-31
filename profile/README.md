@@ -2,8 +2,12 @@
 
 ## 📝 Table of Contents
 - [📝 Table of Contents](#-table-of-contents)
+- [Purpose](#purpose-)
 - [How to Use MatProGo](#how-to-use-matprogo-)
 - [The Mathematical Programming Universe](#the-mathematical-programming-universe-)
+- [What's next?](#whats-next-)
+
+## Purpose <a name="purpose"></a>
 
 This organization is focused on centralizing some of the tools used to 
 perform Mathematical Programming in the [Go](https://go.dev/) (Golang) language. It aims to 
@@ -35,3 +39,6 @@ Each solver is typically designed for a specific class of problem (e.g., a Quadr
 | Quadratic Programs (QPs)              | Gurobi, OSQP, Mosek |
 | Second-Order Cone Programs (SOCPs)    | Mosek |
 
+## What's next? <a name="whats-next"></a>
+
+We are currently writing our symbolic math toolbox to make it easy to create optimization problems in Go and have focused a lot of energy there. If you have features that you would like to see in that symbolic math solver or if you have a request for a certain wrapper, then please let us know about this!
