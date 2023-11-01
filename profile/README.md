@@ -10,7 +10,7 @@
 ## Purpose <a name="purpose"></a>
 
 This organization is focused on centralizing some of the tools used to 
-perform Mathematical Programming in the [Go](https://go.dev/) (Golang) language. It aims to 
+perform Mathematical Programming (e.g., Convex Optimization) in the [Go](https://go.dev/) (Golang) language. It aims to 
 create a universal interface for defining optimization problems (like [YALMIP](https://github.com/yalmip/YALMIP)) and 
 to share simple wrappers that solve those optimization problems with arbitrary solvers (e.g., Gurobi).
 
