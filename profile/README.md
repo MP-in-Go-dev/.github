@@ -26,7 +26,7 @@ The steps for making use of MatProGo's work should be as follows:
 
 So far, we've noticed the following options available to Go users that are interested in solving Mathematical Programming problems:
 - [Mosek.go](https://github.com/MOSEK/Mosek.go)
-- [Gurobi.go](https://github.com/MatProGo-dev/Gurobi.go) (From this repository)
+- [Gurobi.go](https://github.com/MatProGo-dev/Gurobi.go) (Maintained by this organization)
 - [gonum](https://github.com/gonum/gonum)
 - [osqp.go](https://github.com/jerensl/osqp.go)
 
