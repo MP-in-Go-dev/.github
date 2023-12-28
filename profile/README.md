@@ -6,6 +6,7 @@
 - [How to Use MatProGo](#how-to-use-matprogo-)
 - [The Mathematical Programming Universe](#the-mathematical-programming-universe-)
 - [What's next?](#whats-next-)
+- [Support](#support-)
 
 ## Purpose <a name="purpose"></a>
 
@@ -42,3 +43,11 @@ Each solver is typically designed for a specific class of problem (e.g., a Quadr
 ## What's next? <a name="whats-next"></a>
 
 We are currently writing our symbolic math toolbox to make it easy to create optimization problems in Go and have focused a lot of energy there. If you have features that you would like to see in that symbolic math solver or if you have a request for a certain wrapper, then please let us know about this!
+
+## Support <a name="support"></a>
+
+If you want to support the work that is being done in MatProGo, then feel free to:
+- Offer To Help Address A Bug (via a GitHub issue)
+- Volunteer to Join the Organization
+- Financially Support Us Through <a href="https://github.com/sponsors/MatProGo-dev">Our GitHub Sponsors Page</a>
+
